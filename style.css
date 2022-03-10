@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+     padding: 10px;
+    margin-top: 10%;
+
+}
+
+#result {
+    text-align: center;
+    border: 1px solid black;
+    height: 15px;
+    width: 225px;
+    color: #fff;
+    margin: auto;
+    padding: 10px;
+    background-color: black;
+}
+
+.buttonfield{
+    padding: 10px;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    
+}
+
+.inputfield{
+    padding: 10px;
+}
